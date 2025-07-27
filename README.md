@@ -1,1 +1,1 @@
-### Thingking Machine (grokf)
+### Writing Machine (grokf)
